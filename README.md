@@ -1,7 +1,3 @@
 # Testing ML code for DWF lightcurve 
 
-To run any of the scripts currently editted path in script to testing lightcurve folder and run python file from cl.
-
-In future put path in cl bitchzzzzzzzz 
-
-# HashTag OUT... MicDROPP
+Current version of the testing scripts for the Machine learning code to cluster lightcurves from our DWF runs. The code will be edited in the future to do night but night analysis to find the rapid transient events like flare stars.
